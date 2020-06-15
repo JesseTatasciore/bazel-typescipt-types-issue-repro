@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "rootDirs": [
+      "."
+    ],
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "node",
+    "lib": [
+      "ES2017",
+      "dom"
+    ],
+    "target": "ES2017",
+    "module": "CommonJS",
+    "preserveSymlinks": true,
+  },
+  "exclude": ["bazel-*"]
+}
