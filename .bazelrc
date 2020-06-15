@@ -1,2 +1,0 @@
-build --strategy=TypeScriptCompile=local
-build --strategy=AngularTemplateCompile=local
