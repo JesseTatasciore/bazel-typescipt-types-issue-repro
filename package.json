@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "semver": "5.5.0",
+    "semver": "5.7.2",
     "builtins": "3.0.1"
   },
   "devDependencies": {
